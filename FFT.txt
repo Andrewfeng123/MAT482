@@ -1,0 +1,3 @@
+clang FFT.cpp -o FFT.exe -IC:\Users\Andrew\Downloads\boost_1_77_0\
+
+start FFT.exe
